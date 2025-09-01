@@ -34,6 +34,7 @@ To create an AI-powered chatbot that:
 ## 🚀 How to Run  
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/memory-ai-chatbot.git
-   cd memory-ai-chatbot
+   git clone https://github.com/she-readzs/Memory-based-AI-Chatbot.git
+   cd Memory-based-AI-Chatbot
+
 
