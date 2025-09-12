@@ -59,3 +59,4 @@ for msg in st.session_state.conversation_history:
     else:
         with st.chat_message("assistant"):
             st.write(msg["content"])
+
